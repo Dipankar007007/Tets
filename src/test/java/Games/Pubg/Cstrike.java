@@ -1,7 +1,5 @@
 package Games.Pubg;
 
-import org.testng.annotations.Test;
-
 public class Cstrike {
 	
 	
@@ -10,5 +8,7 @@ public class Cstrike {
 		System.out.println("Hllo");
 		
 	}
+	
+	//Removed unused packages
 
 }
